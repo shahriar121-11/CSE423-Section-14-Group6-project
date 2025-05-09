@@ -4,4 +4,4 @@
 
 
 
-you need to download the first programme file og classroom then you can run the file placing our py file in there
+you need to download the first programme file of google classroom then you can run the file placing our py file in there
